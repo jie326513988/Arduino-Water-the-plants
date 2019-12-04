@@ -1,9 +1,8 @@
 # Arduino-Water-the-plants
 一款迷你掌上型的植物浇水系统，包括代码、电路板和3D的外壳
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)<br>
 将U8g2和MsTimer2的整个文件夹放在你自己的库文件夹里<br>
 或者用ArduinoBuilder直接烧录hex文件<br>
-
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)<br>
 引脚定义<br>
 6-电机驱动输入引脚1<br>
 5-电机驱动输入引脚2<br>
