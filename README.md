@@ -1,9 +1,9 @@
 # Arduino-Water-the-plants
 ## 一款迷你掌上型的植物浇水系统，包括代码、电路板和3D的外壳
 
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)<br>
 
-### <br>烧录说明<br>
+### 烧录说明<br>
 1.将U8g2和MsTimer2的整个文件夹放在你自己的库文件夹里，或者用ArduinoBuilder直接烧录hex文件，暂时还不知道怎样可以一次性把EEPROM和程序一起烧录<br><br>
 2.使用ArduinoIDE编译，需要下载两次程序才可以使用<br>
 在setup()找到这段程序看说明下载程序<br>
