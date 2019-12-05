@@ -1,5 +1,5 @@
 # Arduino-Water-the-plants
-## 一款迷你掌上型的植物浇水系统，包括代码、电路板和适用3D打印的外壳
+## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
 ## 工作较忙，页面正在逐步完善
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)<br>
 
