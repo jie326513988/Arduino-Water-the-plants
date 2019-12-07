@@ -67,7 +67,7 @@ uint16_t sbyz_js = 0;              //水泵运转时间记录
 boolean sbjkfz_xk_state = 0;      //水泵接口翻转选框状态
 boolean sbjkfz_set_state = 0;     //水泵接口翻转设置状态
 boolean dyjz_xk_state = 0;        //电压校准选框状态
-uint8_t dyjz_set_num = 3;         //电压校准数值
+int8_t dyjz_set_num = 3;         //电压校准数值
 uint8_t oled1d_num = 30;             //屏幕亮度数值
 
 volatile int wdt_data = 0;         //看门狗计算
