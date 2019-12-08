@@ -1,7 +1,7 @@
 # Arduino-Water-the-plants
 ## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)<br>
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/4.png)![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/3.png)<br>
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/4.jpg)
 ## 特点<br>
 ### 根据土壤的湿度进行浇水，而不是简单定时浇水，避免不必要的浇水，更加科学的管理植物。
 ### 可自动休眠，节省电量，并内置750mah电池，满足一周充一次电（小型花盆），配合太阳能充电器可实现长期无人监管。
