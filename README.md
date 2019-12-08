@@ -7,6 +7,7 @@
 ### 可自动休眠，节省电量，并内置750mah电池，满足一周充一次电（小型花盆），配合太阳能充电器可实现长期无人监管。
 ### 丰富的设置选项，应对不同的植物。
 ### 观看视频 https://space.bilibili.com/16758526/favlist?fid=769297826&ftype=create
+### 3D打印件下载 https://www.thingiverse.com/thing:4025691
 ### 烧录说明<br>
 1.将U8g2和MsTimer2的整个文件夹放在你自己的库文件夹里，或者用ArduinoBuilder直接烧录hex文件，暂时还不知道怎样可以一次性把EEPROM和程序一起烧录<br><br>
 2.使用ArduinoIDE编译，需要下载两次程序才可以使用<br>
