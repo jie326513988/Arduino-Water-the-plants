@@ -28,7 +28,7 @@ void anjian()
       {
         Display();
         ld++;
-        if (ld >8)
+        if (ld > 8)
         {
           if (oled1d_num > 5) oled1d_num -= 5;
           u8g2.setCursor(58, 43);
@@ -127,6 +127,11 @@ void anjian()
           dyjz_xk_state = !dyjz_xk_state;
           EEPROM.update(dyjz_set_eeprom, dyjz_set_num);
           break;
+        case 9:   //空白返回
+          szjm_count = 1;
+          zjm_state = !zjm_state;
+          szjm_state = ! szjm_state;
+          break;
       }
     }
   }
@@ -136,10 +141,10 @@ void xianzhi()//数值限制
   if (zjm_count > 3) zjm_count = 0;
   if (zjm_count < 0) zjm_count = 3;
 
-  if (szjm_count > 8) szjm_count = 0;
-  if (szjm_count < 0) szjm_count = 8;
+  if (szjm_count > 9) szjm_count = 0;
+  if (szjm_count < 0) szjm_count = 9;
 
-  if (trsd_set_sx < 350) trsd_set_sx = 350;
+  if (trsd_set_sx < 300) trsd_set_sx = 300;
   if (trsd_set_sx > 610) trsd_set_sx = 610;
   if (trsd_set_sx > trsd_set_xx) trsd_set_sx = trsd_set_xx;
 

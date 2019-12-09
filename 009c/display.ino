@@ -20,5 +20,6 @@ void Display()
     else if (szjm_count == 6) szjm_6();
     else if (szjm_count == 7) szjm_7();
     else if (szjm_count == 8) szjm_8();
+    else if (szjm_count == 9) szjm_00_2p();
   }
 }

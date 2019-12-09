@@ -27,9 +27,9 @@ void zjm_0() //主界面内容
     u8g2.setCursor(0, 15);
     u8g2.print("土壤湿度");
 
-    if (trsd_num0 >= 360 && trsd_num0 <= 610)
+    if (trsd_num0 >= 300 && trsd_num0 <= 610)
     {
-      trsd_num1 = map(trsd_num0, 360, 610, 63, 1); //将数值映射为进度条X值
+      trsd_num1 = map(trsd_num0, 300, 610, 63, 1); //将数值映射为进度条X值
     }
     u8g2.drawRFrame(0, 21, 65, 9, 2);     //圆角空心方形
     u8g2.drawBox(1, 22, trsd_num1, 7);   //实心方形，进度条
