@@ -144,12 +144,12 @@ void xianzhi()//数值限制
   if (szjm_count > 9) szjm_count = 0;
   if (szjm_count < 0) szjm_count = 9;
 
-  if (trsd_set_sx < 300) trsd_set_sx = 300;
+  if (trsd_set_sx < 200) trsd_set_sx = 200;
   if (trsd_set_sx > 610) trsd_set_sx = 610;
   if (trsd_set_sx > trsd_set_xx) trsd_set_sx = trsd_set_xx;
 
   if (trsd_set_xx > 610) trsd_set_xx = 610;
-  if (trsd_set_xx < 350) trsd_set_xx = 350;
+  if (trsd_set_xx < 200) trsd_set_xx = 200;
   if (trsd_set_xx < trsd_set_sx) trsd_set_xx = trsd_set_sx;
   if (xmsj > 999) xmsj = 0;
 
