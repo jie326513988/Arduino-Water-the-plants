@@ -17,7 +17,7 @@
 在setup()找到这段程序看说明下载程序<br>
 EEPROM.put第一次写入去掉注释，第二次以后注释上<br>
 EEPROM.get第一次写入注释上，第二次以后写入去掉注释<br><br>
-3.使用ArduinoBuilder烧录也是要烧录两次hex文件，先烧录1，在烧录2。<br><br>
+3.使用烧录软件也是要烧录两次hex文件，先烧录1，在烧录2。<br><br>
 4.必须将arduino pro mini的电源指示LED和LED旁边的限流电阻焊下来，否则电量会很快耗尽，若只焊下LED没焊下电阻就读取电压会烧坏板子！<br><br>
 
 
