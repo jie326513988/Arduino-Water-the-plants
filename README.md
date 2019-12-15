@@ -1,8 +1,8 @@
-# Arduino-Water-the-plants
 ## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/4.jpg)
 ### 请下载最新程序进行更新
+### 应该加入一个延时，唤醒后等待30秒，等土壤湿度稳定时再判断浇不浇水
 ### 2019-12-12 经过实际使用，浇湿土壤时读取的湿度值多在260左右，所以将浇水上限数值限制调到200。
 ### 2019-12-09 优化设置界面的显示逻辑
 ## 特点<br>
