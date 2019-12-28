@@ -5,7 +5,7 @@ void lv_bo()
 }
 
 #define Threshold_1     5    //阈值1用于一阶带参滤波器，AD大于此值时，计数增加
-#define Threshold_2     20   //阈值2用于一阶带参滤波器，计数值大于此值时，增大参数，增强滤波跟随
+#define Threshold_2     24   //阈值2用于一阶带参滤波器，计数值大于此值时，增大参数，增强滤波跟随
 float K = 0;                 //滤波系数
 uint8_t num_x = 0;           //滤波计数器
 int NEW_DATA = 0;
