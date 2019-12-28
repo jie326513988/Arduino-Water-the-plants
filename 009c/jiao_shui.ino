@@ -108,7 +108,7 @@ void xmhx_init()  //休眠唤醒后对水泵传感器屏幕初始化
     cgq_sw_state = 1;          //传感器状态标志位置1
     sb_sw_state = 1;          //水泵状态标志位置1
     cgq_sw();
-    for (int i = 0; i < 600; i++) lv_bo();
+    for (int i = 0; i < 63; i++) lv_bo();
     u8g2.setPowerSave(0);     //开启屏幕
     xm_state = 0;             //休眠状态标志位置0
   }
