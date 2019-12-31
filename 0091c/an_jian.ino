@@ -158,7 +158,7 @@ void xianzhi()//数值限制
     sb_sw_state = 0;
     cgq_sw_state = 0;
   }
-  if (sb_error == 1 || cgq_error == 1 || sb_sw_state == 0 || sb_out == 0)
+  if (cgq_error == 1 || sb_sw_state == 0 || sb_out == 0)
   {
     MsTimer2::stop();  //关闭水泵检测计时
     sbyz_js = 0;        //水泵运转计时置零

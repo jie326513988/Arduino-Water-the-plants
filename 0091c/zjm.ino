@@ -22,7 +22,7 @@ uint8_t sb_x2 = 0;
 uint8_t sb_x3 = 0;
 void zjm_0() //主界面内容
 {
-  if (cgq_error == 0 && sb_error == 0)
+  if (cgq_error == 0)
   {
     u8g2.setCursor(0, 15);
     u8g2.print("土壤湿度");

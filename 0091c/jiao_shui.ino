@@ -6,11 +6,11 @@ boolean old_trsd_num0_state = 1;  //旧土壤湿度存储标志位
 void js_jc() //水泵浇水和检测
 {
   /***判断是否要浇水***/
-  if ((trsd_num0 >= trsd_set_xx) && sb_error == 0 && sb_sw_state == 1) //达到设定值下限，开始浇水
+  if ((trsd_num0 >= trsd_set_xx)  && sb_sw_state == 1) //达到设定值下限，开始浇水
   {
     js_state = 1;
   }
-  else if ((trsd_num0 <= trsd_set_sx) || sb_error == 1 || trsd_num0 == 0 || cgq_sw_state == 0 || sb_sw_state == 0) //达到设定值上限，停止浇水
+  else if ((trsd_num0 <= trsd_set_sx) || trsd_num0 == 0 || cgq_sw_state == 0 || sb_sw_state == 0) //达到设定值上限，停止浇水
   {
     js_state = 0;
     sb_out = 0;
@@ -112,6 +112,8 @@ void xmhx_init()  //休眠唤醒后对水泵传感器屏幕初始化
 {
   if (xm_state == 1)
   {
+    js_state = 0;
+    sb_out = 0;
     cgq_sw_state = 1;          //传感器状态标志位置1
     sb_sw_state = 1;          //水泵状态标志位置1
     cgq_sw();
