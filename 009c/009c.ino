@@ -109,13 +109,13 @@ void setup()
   digitalWrite(led, 0);
 
   //EEPROM.put第一次写入去掉注释，第二次以后注释上
-  //EEPROM.put(trsd_set_sx_eeprom, 450);
-  //EEPROM.put(trsd_set_xx_eeprom, 550);
-  //EEPROM.put(xmsj_set_eeprom, 24);
-  //EEPROM.update(dyjz_set_eeprom, 3);
-  //EEPROM.update(sbjkfz_set_eeprom, 0);
-  //EEPROM.update(sbcs_set_eeprom, 60);
-  //EEPROM.update(oledld_num_eeprom, 50);
+  /*EEPROM.put(trsd_set_sx_eeprom, 450);
+  EEPROM.put(trsd_set_xx_eeprom, 550);
+  EEPROM.put(xmsj_set_eeprom, 24);
+  EEPROM.update(dyjz_set_eeprom, 3);
+  EEPROM.update(sbjkfz_set_eeprom, 0);
+  EEPROM.update(sbcs_set_eeprom, 60);
+  EEPROM.update(oledld_num_eeprom, 50);*/
 
   //EEPROM.get第一次写入注释上，第二次以后写入去掉注释
   EEPROM.get(trsd_set_sx_eeprom, trsd_set_sx);

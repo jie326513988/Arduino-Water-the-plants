@@ -64,5 +64,6 @@ int filter_1()
     num_x = 0;
     cgq_error = 1;
   }
-  return OLD_DATA;
+  else
+    return OLD_DATA;
 }
