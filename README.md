@@ -1,6 +1,6 @@
 ## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/1.jpg)
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/4.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-1.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-2.jpg)
 #### 注意！4.0之前的PCB未加到电池低压保护，电池过放会导致电池寿命下降，请勿让电池电压低于3.4V。
 ##### 2020-02-28 PCB更新5.0，新增分压电阻电路，当电池电压低于3.3V时分压电路会输出低于1.5V的电压至SX-1308升压芯片的EN引脚，使其停止工作，从而关闭单片机。
 ##### 2020-02-25 更新092C  1.按键取消延时的方式消抖，改为对比时间的方式消抖，效果更佳。
@@ -88,3 +88,7 @@ A5-OLED,SCL<br>
     2.主界面增加电池充电时的动画
     3.主界面增加水泵运转时间显示
     4.主界面增加水泵运转时的动画
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-3.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-4.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-5.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-6.jpg)
