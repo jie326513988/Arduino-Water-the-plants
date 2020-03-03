@@ -2,7 +2,7 @@
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-1.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-2.jpg)
 #### 注意！4.0之前的PCB未加到电池低压保护，电池过放会导致电池寿命下降，请勿让电池电压低于3.4V。
-##### 2020-03-03 PCB更新6.0，为了进一步缩小体积，直接在板上集成atmega328，电机驱动芯片换成A4950。
+##### 2020-03-03 PCB更新6.0和7.0，为了进一步缩小体积，直接在板上集成atmega328，电机驱动芯片换成A4950。
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v6.0_01.png)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v6.0_02.png)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v6.0_03.png)
