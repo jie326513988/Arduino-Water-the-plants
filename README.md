@@ -89,8 +89,8 @@ A5-OLED,SCL<br>
     2.主界面增加电池充电时的动画
     3.主界面增加水泵运转时间显示
     4.主界面增加水泵运转时的动画
-![v7.0](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v7.0.jpg)
-![v6.0](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v6.0.jpg)
+![v7.0](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v7.0.png)
+![v6.0](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v6.0.png)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-3.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-4.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-5.jpg)
