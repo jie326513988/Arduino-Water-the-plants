@@ -1,7 +1,7 @@
 ## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-1.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-2.jpg)
-#### 注意！所以版本PCB未加到电池低压保护，电池过放会导致电池寿命下降，请使用带保护板的电池，或不要让电池电压低于3.0V。
+#### 注意！所有版本PCB未加到电池低压保护，电池过放会导致电池寿命下降，请使用带保护板的电池，或不要让电池电压低于3.0V。
 #### 2020-03-04 PCB7.0，是最小的一块板子，直接在板上集成atmega328，电机驱动芯片换成A4950。<br>2020-03-03 PCB6.0，由两块板子拼插而成的，为了方便新手和缩小体积。
 
 ## 特点
