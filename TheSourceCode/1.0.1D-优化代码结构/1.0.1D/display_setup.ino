@@ -4,7 +4,7 @@ void display_setup()
   u8g2.setCursor(0, 15);
   u8g2.print("By:甘草酸不酸");
   u8g2.setCursor(0, 32);
-  u8g2.print("version:1.0.0d");
+  u8g2.print("Version:1.0.1D");
   u8g2.nextPage();
 
   //等待数据稳定

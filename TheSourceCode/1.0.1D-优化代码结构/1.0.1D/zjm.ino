@@ -107,7 +107,7 @@ void zjm_0()    //主界面的显示，选框不闪烁
   if (sb_sw_state == 1)
   {
     u8g2.setCursor(98, 43);
-    u8g2.print("AOTO");
+    u8g2.print("AUTO");
   }
   else if (sb_sw_state == 0)
   {
