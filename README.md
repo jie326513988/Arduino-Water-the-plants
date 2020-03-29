@@ -1,6 +1,6 @@
 ## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-1.jpg)
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-2.jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/V7.0-1.jpg)
 #### 注意！所有版本PCB未加到电池低压保护，电池过放会导致电池寿命下降，请使用带保护板的电池，不要让电池电压低于3.0V。
 #### 2020-03-20，超小尺寸版本V7.1正式发布<br>
 * 添加100uf电容等多个滤波电容至5V电路，增加电流供应能力和稳定性，防止电机启动对电路造成过多的压降和干扰
