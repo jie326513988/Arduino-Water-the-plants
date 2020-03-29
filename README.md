@@ -105,7 +105,7 @@ A5-OLED,SCL<br>
     设置界面的电压校准改为每次加减0.01V
     修改设置界面的数值排序
 ![v7.0](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v7.0.png)
-![v6.0](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v6.0.png)
+![v7.1](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/V7.1.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-3.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-4.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-5.jpg)
