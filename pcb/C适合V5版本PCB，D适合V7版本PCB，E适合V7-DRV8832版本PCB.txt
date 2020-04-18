@@ -1,0 +1,1 @@
+C适合V5版本PCB，D适合V7版本PCB，E适合V7-DRV8832版本PCB
