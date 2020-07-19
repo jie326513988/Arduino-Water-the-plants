@@ -2,6 +2,7 @@
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/js4056-1.jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/V7.0-1.jpg)
 #### 注意！所有版本PCB未加到电池低压保护，电池过放会导致电池寿命下降，请使用带保护板的电池，不要让电池电压低于3.0V。
+#### 2020-07-19 将土壤湿度的电路集成到主控板上，外接自制的土壤湿度探测器。重新设计了盒子。
 #### 2020-04-19,程序更新V1.1.8，稳定版
 * 修复1.1.5-1.1.7的休眠不唤醒BUG
 * 修复了L9110驱动芯片使用PWM死机的BUG，只限D版本，C版本暂未修复
