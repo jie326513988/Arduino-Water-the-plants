@@ -102,3 +102,10 @@
    e.替换analogRead API，改用ADC降噪模式的ADC读取<br>
   v1.03<br>
    增加水泵速度调节，Pwm Max<br>
+   
+   ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(1).jpg)
+   ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(2).jpg)
+   ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(3).jpg)
+   ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(4).jpg)
+   ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(5).jpg)
+   ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(7).jpg)
