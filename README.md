@@ -1,5 +1,6 @@
 ## 一款迷你型的植物浇水系统，包括代码、电路板原理图PCB图和适用3D打印的外壳
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.2-001.png)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1+ (6).jpg)
 #### 注意！所有版本PCB未加到电池低压保护，电池过放会导致电池寿命下降，请使用带保护板的电池，不要让电池电压低于3.0V。
 #### 2020-10-24 集成土湿驱动版本发布，PCV版本9.3 软件版本V1.1.1
 #### 程序V1.1.1适配PCBV9.1-9.3以上
