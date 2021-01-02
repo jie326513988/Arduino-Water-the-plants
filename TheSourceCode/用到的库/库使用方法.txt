@@ -1,0 +1,11 @@
+默认库位置 C:\Users\你的用户名\Documents\Arduino\libraries
+
+文件夹的名字只能为U8G2和MsTimer2
+后面不要带任何文字
+
+正确的结构为 .......\Arduino\libraries\U8g2 
+
+以下为错误的结构
+.......\Arduino\libraries\U8g2\U8g2  
+.......\Arduino\libraries\U8g2-2020-11-19
+.......\Arduino\libraries\U8g2-2020-11-19\U8g2  
