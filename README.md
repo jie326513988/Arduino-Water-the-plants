@@ -48,5 +48,4 @@
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(3).jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(4).jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(5).jpg)
-![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(7).jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/UI_SET.jpg)
