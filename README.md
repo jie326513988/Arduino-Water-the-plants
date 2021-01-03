@@ -42,7 +42,9 @@
 2.方法a：使用空芯片，再用AVR ICSP在线烧录器或离线烧录器烧录引导或带引导的固件，之后使用CH340串口模块即可更新程序<br>
   方法b：买一块UNO，上传好程序，将芯片拆下来再焊到浇水板子上<br>
   方法c：使用Arduino uno作为icsp烧录器对空芯片进行烧录引导，再通过CH340上传程序<br>
-3.使用ch340模块更新程序，需要手动复位，打开Arduino IDE，文件-首选项-显示详情输出-上传勾选，点击主界面上传按钮，看到下方出现Overriding Baud Rate: 115200，迅速按下复位按钮即可更新程序<br>
+3.使用ch340模块更新程序，需要手动复位，打开Arduino IDE，文件-首选项-显示详情输出-上传勾选，点击主界面上传按钮，看到下方出现Overriding Baud Rate: 115200，迅速按下复位按钮即可更新程序<br><br>
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/PCB(1).jpg)
+![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/PCB(2).jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(1).jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(2).jpg)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(3).jpg)
