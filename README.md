@@ -2,7 +2,7 @@
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.2-001.png)
 ![](https://github.com/jie326513988/Arduino-Water-the-plants/blob/master/picture/v9.1%2B%20(6).jpg)
 #### 注意！所有版本PCB未加到电池低压保护，电池过放会导致电池寿命下降，请使用带保护板的电池，不要让电池电压低于3.0V。
-#### 2021-1-2 LDO版本已验证成功，适合3D打印的外壳正在绘制，迟点上传
+#### 2021-1-17 LDO版本已验证成功，适合3D打印的外壳已测试成功
 
 ## 特点
 * 根据自己设定的土壤湿度阈值进行浇水，而不是简单定时浇水，避免不必要的浇水。
